@@ -7,3 +7,4 @@
 RSpec.configure do |config|
   # config here
 end
+atom hello_world.rubydoc'
